@@ -12,7 +12,7 @@ const Navbar = () => {
           <span className="tracking-tighter text-3xl font-extrabold text-primary flex gap-2 items-center">
             Kosh{" "}
             <span className="rounded-full text-base bg-primary/10 border border-primary/50 px-2">
-              v1.3
+              v1.1
             </span>
           </span>
         </div>
